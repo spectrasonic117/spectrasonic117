@@ -42,7 +42,7 @@ Puedes contactar comingo via por etiqueta o via DM o simplemete seguirme en esta
 
 - Estoy Desarrollando el bot de discord [Omnispectra][4]v1.14.0 (Repositorio Público)
 - Estoy Desarrollando un bot de discord para el servidor de [ColorfulPanic][5]v0.2.0 PreAlpha (Repositorio Privado de momento)
-- Desarroyo del Plugin Redstonium Core para Dramacraft
+- Desarrollo del Plugin Redstonium Core para Dramacraft
 - Minecraft Datapack para el servidor de Dramacraft
 - Minecraft Datapack para el servidor de [ColorfulPanic][5]
 
