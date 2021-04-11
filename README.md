@@ -50,7 +50,7 @@ Puedes contactar comingo via por etiqueta o via DM o simplemete seguirme en esta
 
 - Tengo un album de Studio totalmente producido por mi en mi pagina de [Bandcamp][3]
 - Uso **Ableton Live** para producicon de musica
-- Tengo una cuenta en Gitlab tambien
+- Tengo una cuenta en **Gitlab** tambien
 - Uso el Suite de Diseño Grafico de **Affinity** (Mas estable que la de Adobe)
 
 <!--Links-->
