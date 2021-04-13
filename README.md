@@ -1,6 +1,22 @@
 <div align=center><img src="https://i.ibb.co/MZkKWcr/profile-spectra.png" alt="profile-spectra" border="0"> </div>
 <br>
-<div align=center> <img src="https://img.shields.io/badge/HTML-D94D14"> <img src="https://img.shields.io/badge/CSS-136ABA"> <img src="https://img.shields.io/badge/JS-F5D600"> <img src="https://img.shields.io/badge/PHP-858DBF"> <img src="https://img.shields.io/badge/Java-DF251A"> <img src="https://img.shields.io/badge/LUA-000082"> <img src="https://img.shields.io/badge/C%23-934C95"></div>
+<div align=center>
+<img src='https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff'>
+<img src='https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff'>
+<img src='https://img.shields.io/badge/-javascrpt-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000'>
+<img src='https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=ffffff'>
+<img src='https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=Java&logoColor=ffffff'>
+<img src='https://img.shields.io/badge/-lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=ffffff'>
+<img src='https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c sharp&logoColor=ffffff'></div>
+
+
+
+
+
+
+
+
+
 <h1 align=center>Spectrasonic</h1>
 
 <br>
