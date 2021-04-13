@@ -7,7 +7,7 @@
 <img src='https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=ffffff'>
 <img src='https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=Java&logoColor=ffffff'>
 <img src='https://img.shields.io/badge/-lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=ffffff'>
-<img src='https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c sharp&logoColor=ffffff'></div>
+<img src='https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c%20sharp&logoColor=ffffff'></div>
 
 
 
