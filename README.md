@@ -1,4 +1,4 @@
-<div align=center><img src="https://i.ibb.co/MZkKWcr/profile-spectra.png" alt="profile-spectra" border="0"> </div>
+<div align=center><img src="assets/profile.svg" alt="profile-spectra" border="0" width="256"> </div>
 <br>
 <div align=center>
 <img src='https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff'>
@@ -17,7 +17,7 @@
 
 
 
-<h1 align=center>Spectrasonic</h1>
+<h1 align=center><strong>Spectrasonic</strong></h1>
 
 <br>
 
