@@ -72,7 +72,7 @@ Puedes contactar comingo via por etiqueta o via DM o simplemete seguirme en esta
 
 ---
 
-<p align="right"> <img src="https://bitbucket.org/Spectrasonic/svg-rep/raw/d15712e817bc1a8643057ce99ea74df99894b530/SVG%20icons/dev.svg" width="25"> with <img src="https://bytebucket.org/Spectrasonic/svg-rep/raw/d15712e817bc1a8643057ce99ea74df99894b530/SVG%20icons/heart.svg" width="22"> by <b>Spectrasonic</b><p>
+<p align="right"> <img src="assets/dev.svg" width="25"> with <img src="assets/heart.svg" width="21"> by <b>Spectrasonic</b><p>
 <!--Links-->
 
 [1]: https://twitter.com/spectrasonic117
