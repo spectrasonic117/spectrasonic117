@@ -1,5 +1,7 @@
 <div align=center><img src="assets/profile.svg" alt="profile-spectra" border="0" width="256"> </div>
 <br>
+
+
 <div align=center>
 <img src='https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff'>
 <img src='https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff'>
@@ -8,12 +10,6 @@
 <img src='https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=Java&logoColor=ffffff'>
 <img src='https://img.shields.io/badge/-lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=ffffff'>
 <img src='https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c%20sharp&logoColor=ffffff'></div>
-
-
-
-
-
-
 
 
 
