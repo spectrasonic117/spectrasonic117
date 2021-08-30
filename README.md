@@ -21,54 +21,73 @@
 
 Hola soy **_Spectrasonic_**...
 
-🎓Estudio **Ingenieria Robotica** en la **Universidad Politecnica de Yucatán**
+🎓Estudio **Ingenieria Robotica** 🤖 en la **Universidad Politecnica de Yucatán**
+
 📍 Vivo en la ciudad de Merida en México
 
-Algunos de los Lenguajes que Domino son:
+**💻-  Los Lenguajes que Domino son:**
 
 - html
 - css
 - php
 - java
+- Javascript
 - lua
 - c#
+    
 
-Gusto de escuchar mucha musica en todo momento.
+🎧 - Gusto de escuchar mucha musica en todo momento.
 Los generos de musica que me gustan son:
 
-- Trance 🎵
-- Synthwave 🎵
-- Lo-Fi 🎵
-- Vaporwave 🎵
-- R&B 🎵
+- Trance 🎧
+- Synthwave 🎧
+- Lo-Fi 🎧
+- Vaporwave 🎧
+- R&B 🎧
 
 ## Contacto
 
-Puedes contactar comingo via por etiqueta o via DM o simplemete seguirme en estas redes sociales:
+Puedes contactar comingo o simplemete seguirme en estas redes sociales:
 
 - [Twitter][1]
 - [Instagram][2]
-  Discord como: Spectrasonic#8495
+- [Gitlab][7]
+- [Twitch][8]
+- Discord: Spectrasonic#8495
 
-### Dev Now
 
-- Estoy Desarrollando el bot de discord [Omnispectra][4]v1.14.0 (Repositorio Público)
-- Estoy Desarrollando un bot de discord para el servidor de [ColorfulPanic][5]v0.2.0 PreAlpha (Repositorio Privado de momento)
-- Desarrollo del Plugin Redstonium Core para Dramacraft
-- Minecraft Datapack para el servidor de Dramacraft
+
+## Dev Now
+
+- Datapack de Minecraft de Teletransporte a zonas
+- Mi propio Texture Pack para Minecraft
+- Estoy Desarrollando el bot de discord [Omnispectra][4]  (Repositorio Público)
+-  Minecraft Datapack para el servidor de Dramacraft
+- Desarrollo del Plugin **Redstonium Core** para Dramacraft
+
+## Finish Proyects
+
+- Bot de discord para el servidor de [ColorfulPanic][5] (Repositorio Privado)
 - Minecraft Datapack para el servidor de [ColorfulPanic][5]
 
-### Extras
 
+
+## Extras
 - Tengo un album de Studio totalmente producido por mi en mi pagina de [Bandcamp][3]
 - Uso **Ableton Live** para producicon de musica
-- Tengo una cuenta en **Gitlab** tambien
+- Tengo una cuenta en [**Gitlab**][7] tambien
 - Uso el Suite de Diseño Grafico de **Affinity** (Mas estable que la de Adobe)
+
 
 
 ---
 
-<p align="right"> <img src="assets/dev.svg" width="25"> with <img src="assets/heart.svg" width="21"> by <b>Spectrasonic</b><p>
+<p align="right"> <img src="assets/dev.svg" width="26"> with <img src="assets/heart.svg" width="20"> by <b>Spectrasonic</b><p>
+
+
+
+
+
 <!--Links-->
 
 [1]: https://twitter.com/spectrasonic117
@@ -76,3 +95,6 @@ Puedes contactar comingo via por etiqueta o via DM o simplemete seguirme en esta
 [3]: https://spectrasonic.bandcamp.com/album/endless-summer
 [4]: https://github.com/spectrasonic117/Omnispectra
 [5]: https://twitter.com/colorful_panic
+[6]: https://github.com/spectrasonic117
+[7]: https://gitlab.com/spectrasonic117
+[8]: https://twitch.tv/spectrasonic117
