@@ -25,7 +25,7 @@ Hola soy **_Spectrasonic_**...
 
 📍 Vivo en la ciudad de Merida en México
 
-**💻-  Los Lenguajes que Domino son:**
+**💻Los Lenguajes que Domino son:**
 
 - html
 - css
@@ -36,7 +36,17 @@ Hola soy **_Spectrasonic_**...
 - c#
     
 
-🎧 - Gusto de escuchar mucha musica en todo momento.
+## Habilidades Informaticas
+Las habilidades de informatica que mas destaco son:
+
+- Terminal Unix
+- Git
+- VSCODE
+- WebStorm
+
+
+## Hobbies
+🎧Gusto de escuchar mucha musica en todo momento.
 Los generos de musica que me gustan son:
 
 - Trance 🎧
@@ -61,9 +71,9 @@ Puedes contactar comingo o simplemete seguirme en estas redes sociales:
 
 - Datapack de Minecraft de Teletransporte a zonas
 - Mi propio Texture Pack para Minecraft
-- Estoy Desarrollando el bot de discord [Omnispectra][4]  (Repositorio Público)
--  Minecraft Datapack para el servidor de Dramacraft
-- Desarrollo del Plugin **Redstonium Core** para Dramacraft
+- Bot de discord [Omnispectra][4] (Repositorio Público)
+- Minecraft Datapack para el servidor de Dramacraft
+- Plugin **Redstonium Core** para ptimizacion de servidores de Minecraft
 
 ## Finish Proyects
 
