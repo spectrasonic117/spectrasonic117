@@ -17,6 +17,10 @@
 
 <br>
 
+<h3 align=center><a href="https://spectrasonic.carrd.co/" target="_blank">Pagina Personal</a></h3>
+
+<br>
+
 ## Acerca de mi
 
 Hola soy **_Spectrasonic_**...
@@ -25,16 +29,16 @@ Hola soy **_Spectrasonic_**...
 
 📍 Vivo en la ciudad de Merida en México
 
-**💻Los Lenguajes que Domino son:**
+**💻 Los Lenguajes que Domino son:**
 
 - html
 - css
+- Javascript
 - php
 - java
-- Javascript
 - lua
 - c#
-    
+
 
 ## Habilidades Informaticas
 Las habilidades de informatica que mas destaco son:
@@ -43,17 +47,27 @@ Las habilidades de informatica que mas destaco son:
 - Git
 - VSCODE
 - WebStorm
-
+- MS Office
 
 ## Hobbies
-🎧Gusto de escuchar mucha musica en todo momento.
-Los generos de musica que me gustan son:
 
-- Trance 🎧
-- Synthwave 🎧
-- Lo-Fi 🎧
-- Vaporwave 🎧
-- R&B 🎧
+Mi juego favorito es **Minecraft** Disfruto tanto jugando, como creando recursos.
+
+Estoy a disposicion para hacer:
+
+- *Servidores*
+- *Datapacks*
+- *Texturas*
+- *Resource Packs*
+
+**[Perfil Minecraft][9]**
+
+
+Tengo un plugin de optimizacion de servidores propio llamado **Redstonium Core**
+
+🎧 Gusto de escuchar mucha musica en todo momento.
+
+🎨 Tambien me gusta mucho el Diseño grafico.
 
 ## Contacto
 
@@ -71,14 +85,12 @@ Puedes contactar comingo o simplemete seguirme en estas redes sociales:
 
 - Datapack de Minecraft de Teletransporte a zonas
 - Mi propio Texture Pack para Minecraft
-- Bot de discord [Omnispectra][4] (Repositorio Público)
-- Minecraft Datapack para el servidor de Dramacraft
+- Bot de Discord **[Omnispectra][4]** (Repositorio Público) 
 - Plugin **Redstonium Core** para ptimizacion de servidores de Minecraft
 
 ## Finish Proyects
 
-- Bot de discord para el servidor de [ColorfulPanic][5] (Repositorio Privado)
-- Minecraft Datapack para el servidor de [ColorfulPanic][5]
+- Mibecraft Datapack que te dice las coordenadas de donde has muerto en el mundo
 
 
 
@@ -108,3 +120,4 @@ Puedes contactar comingo o simplemete seguirme en estas redes sociales:
 [6]: https://github.com/spectrasonic117
 [7]: https://gitlab.com/spectrasonic117
 [8]: https://twitch.tv/spectrasonic117
+[9]: https://es.namemc.com/profile/Spectrasonic.1
