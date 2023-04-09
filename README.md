@@ -38,16 +38,17 @@ Hola soy **_Spectrasonic_**...
 
 ## Lenguajes que domino:
 
-<img src='https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff'>
-<img src='https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff'>
-<img src='https://img.shields.io/badge/-javascrpt-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000'>
-<img src='https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=ffffff'>
-<!-- <img src='https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=Java&logoColor=ffffff'> -->
-<img src='https://img.shields.io/badge/-lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=ffffff'>
-<!-- <img src='https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c%20sharp&logoColor=ffffff'> -->
-<img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'>
-<img src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
-<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
+![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![](https://img.shields.io/badge/-javascrpt-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000)
+![](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
+![](https://img.shields.io/badge/-lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=ffffff)
+![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<!-- ![](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=Java&logoColor=ffffff)
+![](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c%20sharp&logoColor=ffffff) -->
 
 ## Habilidades Informaticas
 
