@@ -74,7 +74,6 @@ Estoy a disposicion para hacer bajo comisión:
 -   _Datapacks_
 -   _Texturas_
 -   _Resource Packs_
-    #62B47A
 
 [![Minecraft-Profile](https://img.shields.io/badge/Minecraft%20Profile-62B47A.svg?style=for-the-badge&logo=Minetest&logoColor=white)][9]
 
