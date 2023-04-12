@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=spectrasonic117&color=CF0234&style=for-the-badge)
+![vistcount](https://komarev.com/ghpvc/?username=spectrasonic117&color=CF0234&style=for-the-badge)
 
 </div>
 
@@ -103,7 +103,7 @@ _Puedes contactar comingo o simplemete seguirme en estas redes sociales:_
 ## Finish Proyects
 
 -   Minecraft Datapack que te dice las coordenadas de donde has muerto en el mundo
--   Bot de Discord **[Omnispectra][4]** (Repositorio Público)
+-   Bot de Discord **[Omnispectra][4]**
 -   Bot de Discord **[ColorfulPanic][5]** (Repositorio Privado)
 
 ## Extras
@@ -115,9 +115,7 @@ _Puedes contactar comingo o simplemete seguirme en estas redes sociales:_
 
 ---
 
-<div style="text-align: right">
-<img src="assets/dev.svg" width="25"> with <img src="assets/heart.svg" width="20"> by <strong>Spectrasonic</strong>
-</div>
+<p align="right"><img src="assets/dev.svg" width="25"> with <img src="assets/heart.svg" width="20"> by <strong>Spectrasonic</strong></p>
 
 <!--Links-->
 
