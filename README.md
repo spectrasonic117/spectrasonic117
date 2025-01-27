@@ -91,7 +91,7 @@ Me dedico a programar Plugins de Minecraft
 
 _Puedes contactar comingo o simplemete seguirme en estas redes sociales:_
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][1]
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)][1]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][2]
 [![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26.svg?style=for-the-badge&logo=Gitlab&logoColor=white)][7]
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)][8]
