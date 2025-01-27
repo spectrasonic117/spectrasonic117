@@ -14,9 +14,7 @@
 
 Hola soy **_Spectrasonic_**...
 
-🎓Estudio **Ingenieria Robotica Computacional** 🤖 en la **Universidad Politécnica de Yucatán**
-
-📍 Vivo en la ciudad de Mérida, Yucatán en México
+📍 Vivo en Mexico
 
 🎗️ Fundador y CEO de la desarolladora **[NineBlock Studio][10]**
 
@@ -27,14 +25,16 @@ Hola soy **_Spectrasonic_**...
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascripts](https://img.shields.io/badge/-javascrpt-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![JAVA](https://img.shields.io/badge/java-EC2025?style=for-the-badge&logo=java&logoColor=ffdd54)
+![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LUA](https://img.shields.io/badge/-lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Otras Technologias
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=Fedora&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -67,10 +67,12 @@ Hola soy **_Spectrasonic_**...
 ## Hobbies
 
 Mi juego favorito es **Minecraft** Disfruto tanto jugando, como creando recursos.
+Ahora ando viciado al Balatro
 
 Estoy a disposicion para hacer bajo comisión:
 
 -   _Servidores_
+-   _Plugins Java_
 -   _Datapacks_
 -   _Texturas_
 -   _Resource Packs_
@@ -78,6 +80,8 @@ Estoy a disposicion para hacer bajo comisión:
 [![Minecraft-Profile](https://img.shields.io/badge/Minecraft%20Profile-62B47A.svg?style=for-the-badge&logo=Minetest&logoColor=white)][9]
 
 Tengo un plugin de optimizacion de servidores propio llamado **Redstonium Core**
+
+Me dedico a programar Plugins de Minecraft
 
 🎧 Gusto de escuchar mucha musica en todo momento.
 
